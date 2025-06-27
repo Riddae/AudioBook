@@ -1,0 +1,19 @@
+{audio_type: "bgm", layout: "background", id: 1, action: "start", vol: -36, desc: "Peaceful sunset ambiance with soft wind and distant bird calls", begin_fg_audio_id: 0, end_fg_audio_id: 1}
+{audio_type: "sfx", layout: "foreground", vol: -25, duration: 6, desc: "Grass rustling and gentle wind blowing at the foot of a mountain", id: 0}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "夕阳西下，余晖染红了天际。师徒四人行至一座荒山脚下，微风吹拂，杂草摇曳。唐僧神情忧虑，孙悟空环顾四周，耳朵微动，猪八戒咕哝着揉肚，沙僧默默负担着行李。", speaker_age: "中年", speaker_sex: "男", id: 1}
+{audio_type: "bgm", layout: "background", id: 1, action: "stop"}
+{audio_type: "bgm", layout: "background", id: 2, action: "start", vol: -38, desc: "Campfire crackling softly with nighttime mountain atmosphere", begin_fg_audio_id: 2, end_fg_audio_id: 14}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "徒儿们天色已晚，前路未知，不如就在这山脚歇息一夜吧。", speaker_age: "中年", speaker_sex: "男", id: 2}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "师父放心，这荒山虽凄凉，俺老孙在此守夜，决不会让妖怪近前一步。", speaker_age: "青年", speaker_sex: "男", id: 3}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "师父，俺这肚子咕咕叫了半天，就是没口热饭呐。不知道这山上有没有什么野果？", speaker_age: "青年", speaker_sex: "男", id: 4}
+{audio_type: "sfx", layout: "foreground", vol: -22, duration: 2, desc: "Stomach growling sound", id: 5}
+{audio_type: "speech", layout: "foreground", speaker: "沙僧", vol: -15, text: "二师兄，我这里还剩几个干馒头，先垫垫肚吧。师父，您也吃一点吧。", speaker_age: "青年", speaker_sex: "男", id: 6}
+{audio_type: "sfx", layout: "foreground", vol: -24, duration: 2, desc: "Cloth rustling and paper wrapping being opened", id: 7}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "苦行之路，莫贪口腹之欲，八戒，你要坚忍些。沙僧，多亏你细心带路，悟空，你巡山归来后也要歇息片刻。", speaker_age: "中年", speaker_sex: "男", id: 8}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "师父放心，俺这就去再探一探，看这山里有没有蹊跷。", speaker_age: "青年", speaker_sex: "男", id: 9}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "唉，还是师父说得对，取经路上哪能挑挑拣拣的……小命要紧，小命要紧。", speaker_age: "青年", speaker_sex: "男", id: 10}
+{audio_type: "speech", layout: "foreground", speaker: "沙僧", vol: -15, text: "二师兄，您吃块馒头，师父，天色渐黑，沙和尚生火点灯吧。", speaker_age: "青年", speaker_sex: "男", id: 11}
+{audio_type: "sfx", layout: "foreground", vol: -26, duration: 6, desc: "Flickering campfire with the occasional crackle", id: 12}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "夜幕逐渐降临，山林间虫鸣四起，火光微微照亮四人面庞。唐僧默念经文，八戒靠着大石打盹，沙僧静静望着远方。孙悟空身影矫健，如灵猴般消失在夜色中，守护着大家的安危。", speaker_age: "中年", speaker_sex: "男", id: 13}
+{audio_type: "sfx", layout: "foreground", vol: -28, duration: 6, desc: "Mountain forest at night filled with chirping insects", id: 14}
+{audio_type: "bgm", layout: "background", id: 2, action: "stop"}
